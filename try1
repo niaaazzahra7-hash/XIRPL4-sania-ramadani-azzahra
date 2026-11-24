@@ -1,0 +1,12 @@
+nama = "sania ramadani azzahra"
+umur = "16 tahun"
+hobi = "memasak"
+perempuan = True
+berat_badan = 44.5
+
+print("===Biodata===")
+print("nama:",nama)
+print("umur:",umur)
+print("hobi:",hobi)
+print("perempuan:", perempuan)
+print("berat_badan:",berat_badan)
